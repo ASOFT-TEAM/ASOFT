@@ -1,0 +1,11 @@
+# Tự động gán người review theo thư mục.
+# Thay @username bằng tên GitHub thật của thành viên, rồi bỏ dấu # ở đầu dòng.
+# Dòng nằm dưới sẽ được ưu tiên hơn dòng nằm trên.
+
+# Mặc định: trưởng nhóm review mọi thay đổi
+# *            @truong-nhom
+
+# Theo module
+# /frontend/   @thanh-vien-a
+# /backend/    @thanh-vien-b
+# /docs/       @thanh-vien-c
