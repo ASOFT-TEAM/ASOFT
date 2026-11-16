@@ -1,0 +1,3 @@
+[submodule "MTP_LINE/ASOFT.Platform"]
+	path = MTP_LINE/ASOFT.Platform
+	url = https://github.com/phamduc0405/ASOFT.Platform.git
